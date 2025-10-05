@@ -1,5 +1,6 @@
 #  COVID-19 SQL Data Analysis
 Link to my dashboard : https://public.tableau.com/app/profile/patiphon.sinsappaisan/viz/CovidDashboard_17596744590130/Dashboard1?publish=yes
+
 This project explores global COVID-19 data using SQL Server.  
 It focuses on analyzing case trends, death rates, and vaccination progress.
 
